@@ -31,7 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
-src/main/java/com/app/camvil/dto/
-src/main/java/com/app/camvil/service/
-src/main/resources/images/
-src/main/resources/mybatis/
+src/main/resources/application.properties
